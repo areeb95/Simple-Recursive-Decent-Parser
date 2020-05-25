@@ -1,0 +1,32 @@
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.Cache
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Areeb\Desktop\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.csprojAssemblyReference.cache
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.cache
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Dell\Downloads\Analyzer (1)\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\bin\Debug\Analyzer.exe
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\bin\Debug\Analyzer.pdb
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.Form1.resources
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.Properties.Resources.resources
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.csproj.GenerateResource.Cache
+C:\Users\Muhammad Arsal-PC\Music\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.CForm.resources
+C:\Users\Areeb\Desktop\CC\CC\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\bin\Debug\Analyzer.exe.config
+C:\Users\Areeb\Desktop\CC\CC\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.exe
+C:\Users\Areeb\Desktop\CC\CC\Csharp-Lexical-Analyzer-master\Analyzer\Analyzer\obj\Debug\Analyzer.pdb
